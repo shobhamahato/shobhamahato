@@ -1,27 +1,15 @@
-<!-- 🌙 DARK DEVELOPER PROFILE -->
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:6A5ACD&height=200&section=header&text=SHOBHA%20MAHATO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/shobhamahato">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+%7C+Problem+Solver;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code!" />
-</a>
 
 <br/>
 
-<a href="https://github.com/shobhamahato">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shobha-mahato-85595530b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/shobhamahato/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://hackerrank.com/shobhamahato9955">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<a href="https://github.com/shobhamahato"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shobha-mahato-85595530b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/shobhamahato/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://hackerrank.com/shobhamahato9955"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 </div>
 
@@ -52,7 +40,7 @@ public class Shobha {
 - 🎓 MCA Graduate from Silicon University, Bhubaneswar.
 - 💻 Interested in Java Development and Software Engineering.
 - 🌱 Currently learning SQL and Python.
-- 🧩 Solving Data Structures and Algorithms problems.
+- 🧩 Practising Data Structures and Algorithms.
 - 🚀 Building projects and exploring new technologies.
 
 ---
@@ -62,19 +50,19 @@ public class Shobha {
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python" />
+<img src="https://skillicons.dev/icons?i=java,c,python"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php"/>
 </p>
 
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse"/>
 </p>
 
 ---
@@ -106,6 +94,17 @@ A library management project developed as part of my learning journey.
 
 </details>
 
+<details>
+<summary><b>📌 LeetCode Daily Questions</b></summary>
+
+A collection of my daily LeetCode problem solutions implemented in Java.
+
+**Focus:** Data Structures, Algorithms, and problem-solving.
+
+<a href="https://github.com/shobhamahato/LeetCode-Daily-Questions">View Repository →</a>
+
+</details>
+
 ---
 
 ## 🧠 LeetCode Journey
@@ -130,13 +129,13 @@ A library management project developed as part of my learning journey.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhamahato&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhamahato&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhamahato&layout=compact&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhamahato&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shobhamahato&theme=github-dark-blue&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=shobhamahato&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
