@@ -118,12 +118,6 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhamahato&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhamahato&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=shobhamahato&theme=github-dark-blue&hide_border=true"/>
 
 </div>
