@@ -1,85 +1,185 @@
-# 👋 Hi, I'm Shobha Mahato!
+<!-- 🌙 DARK DEVELOPER PROFILE -->
 
-### 💻 Aspiring Software Developer | MCA Graduate | Java Programmer
+<div align="center">
 
-I'm an MCA graduate from **Silicon University, Bhubaneswar**, passionate about software development, problem-solving, and learning new technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:6A5ACD&height=200&section=header&text=SHOBHA%20MAHATO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-- 🎓 MCA Graduate (2024–2026)
-- 💻 Interested in Java Development and Software Engineering
-- 🌱 Currently improving my skills in Java, SQL, Python, and Data Structures & Algorithms.
-- 🧩 Practising coding problems on LeetCode.
-- 🚀 Building projects and continuously learning new technologies.
+<a href="https://github.com/shobhamahato">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+%7C+Problem+Solver;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code!" />
+</a>
 
----
+<br/>
 
-## 🛠️ Technical Skills
+<a href="https://github.com/shobhamahato">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/shobha-mahato-85595530b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/shobhamahato/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://hackerrank.com/shobhamahato9955">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-**Programming Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Web Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 👩‍💻 About Me
 
-| Project | Description | Technologies |
-|---|---|---|
-| Event Space & Services | Event booking and management platform | PHP, MySQL, HTML, CSS, JavaScript |
-| Student Management System | Desktop application for managing student records | Java, JDBC, MySQL |
-| SmartLibPortal | Library management project | Java, Web Technologies |
+```java
+public class Shobha {
 
----
+    String name = "Shobha Mahato";
+    String education = "MCA Graduate";
+    String university = "Silicon University";
 
-## 🧠 LeetCode Practice
+    String[] interests = {
+        "Java Development",
+        "Software Engineering",
+        "Data Structures & Algorithms",
+        "Web Development"
+    };
 
-I regularly practise Data Structures and Algorithms to improve my problem-solving skills.
+    String currentFocus = "Improving problem-solving skills";
 
-🔹 100+ problems solved on LeetCode.
+    String goal = "Become a skilled Software Developer";
+}
+```
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shobhamahato/)
-
-Check out my [LeetCode Daily Questions](https://github.com/shobhamahato/LeetCode-Daily-Questions) repository.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobhamahato&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhamahato&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shobhamahato&theme=tokyonight&hide_border=true)
+- 🎓 MCA Graduate from Silicon University, Bhubaneswar.
+- 💻 Interested in Java Development and Software Engineering.
+- 🌱 Currently learning SQL and Python.
+- 🧩 Solving Data Structures and Algorithms problems.
+- 🚀 Building projects and exploring new technologies.
 
 ---
 
-## 🤝 Connect With Me
+## ⚡ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobha-mahato-85595530b)
+### 💻 Programming Languages
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shobhamahato)
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,python" />
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shobhamahato/)
+### 🌐 Web Development
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhamahato9955)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse" />
+</p>
 
 ---
 
-⭐ *"Learning every day, coding every day, growing every day!"*
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>📌 Event Space & Services</b></summary>
+
+An event booking and management platform with user, vendor, and admin functionalities.
+
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap.
+
+</details>
+
+<details>
+<summary><b>📌 Student Management System</b></summary>
+
+A Java desktop application for managing student records using database connectivity.
+
+**Technologies:** Java, JDBC, MySQL, Swing.
+
+</details>
+
+<details>
+<summary><b>📌 SmartLibPortal</b></summary>
+
+A library management project developed as part of my learning journey.
+
+</details>
+
+---
+
+## 🧠 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/shobhamahato/">
+<img src="https://img.shields.io/badge/100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/shobhamahato/LeetCode-Daily-Questions">
+<img src="https://img.shields.io/badge/Explore_My_LeetCode_Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhamahato&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhamahato&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shobhamahato&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 My Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/shobhamahato/">
+<img src="https://img.shields.io/badge/LeetCode-Practice_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://hackerrank.com/shobhamahato9955">
+<img src="https://img.shields.io/badge/HackerRank-Coding_Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shobhamahato">
+<img src="https://img.shields.io/badge/GitHub-My_Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always interested in learning, collaborating, and connecting with fellow developers.
+
+<a href="https://linkedin.com/in/shobha-mahato-85595530b">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shobhamahato">
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ✨ "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:191970,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
