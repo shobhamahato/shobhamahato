@@ -2,14 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:6A5ACD&height=200&section=header&text=SHOBHA%20MAHATO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+%7C+Problem+Solver;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+%7C+Problem+Solver;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code!"/>
 
 <br/>
 
-<a href="https://github.com/shobhamahato"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/shobha-mahato-85595530b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/shobhamahato/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://hackerrank.com/shobhamahato9955"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://github.com/shobhamahato">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/shobha-mahato-85595530b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/shobhamahato/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://hackerrank.com/shobhamahato9955">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
@@ -17,31 +25,12 @@
 
 ## 👩‍💻 About Me
 
-```java
-public class Shobha {
-
-    String name = "Shobha Mahato";
-    String education = "MCA Graduate";
-    String university = "Silicon University";
-
-    String[] interests = {
-        "Java Development",
-        "Software Engineering",
-        "Data Structures & Algorithms",
-        "Web Development"
-    };
-
-    String currentFocus = "Improving problem-solving skills";
-
-    String goal = "Become a skilled Software Developer";
-}
-```
-
-- 🎓 MCA Graduate from Silicon University, Bhubaneswar.
-- 💻 Interested in Java Development and Software Engineering.
-- 🌱 Currently learning SQL and Python.
-- 🧩 Practising Data Structures and Algorithms.
+- 🎓 MCA Graduate from **Silicon University, Bhubaneswar**.
+- 💻 Interested in **Java Development and Software Engineering**.
+- 🌱 Currently learning **SQL and Python**.
+- 🧩 Practising **Data Structures and Algorithms**.
 - 🚀 Building projects and exploring new technologies.
+- 🎯 Aspiring to become a skilled Software Developer.
 
 ---
 
@@ -72,7 +61,7 @@ public class Shobha {
 <details open>
 <summary><b>📌 Event Space & Services</b></summary>
 
-An event booking and management platform with user, vendor, and admin functionalities.
+A web-based platform for managing event bookings and services, with separate functionalities for users, vendors, and administrators.
 
 **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap.
 
@@ -83,7 +72,7 @@ An event booking and management platform with user, vendor, and admin functional
 
 A Java desktop application for managing student records using database connectivity.
 
-**Technologies:** Java, JDBC, MySQL, Swing.
+**Technologies:** Java, JDBC, MySQL, Java Swing.
 
 </details>
 
@@ -101,7 +90,7 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 **Focus:** Data Structures, Algorithms, and problem-solving.
 
-<a href="https://github.com/shobhamahato/LeetCode-Daily-Questions">View Repository →</a>
+<a href="https://github.com/shobhamahato/LeetCode-Daily-Questions">🔗 View Repository</a>
 
 </details>
 
@@ -136,6 +125,16 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=shobhamahato&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhamahato&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
