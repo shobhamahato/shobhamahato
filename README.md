@@ -96,19 +96,25 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 ---
 
+---
+
 ## 🧠 LeetCode Journey
 
 <div align="center">
 
 <a href="https://leetcode.com/u/shobhamahato/">
-<img src="https://img.shields.io/badge/100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/shobhamahato/LeetCode-Daily-Questions">
-<img src="https://img.shields.io/badge/Explore_My_LeetCode_Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_My_LeetCode_Repository-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+**Practising Java | Data Structures | Algorithms**
 
 </div>
 
