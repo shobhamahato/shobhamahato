@@ -1,22 +1,22 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:6A5ACD&height=200&section=header&text=SHOBHA%20MAHATO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:191970,100:6A5ACD&height=200&section=header&text=SHOBHA%20MAHATO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+%7C+Problem+Solver;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Java+Developer+%7C+Problem+Solver;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Code" />
 
 <br/>
 
 <a href="https://github.com/shobhamahato">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/shobha-mahato-85595530b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/shobhamahato/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://hackerrank.com/shobhamahato9955">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 </div>
@@ -39,19 +39,19 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python"/>
+<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php&theme=dark" />
 </p>
 
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse&theme=dark" />
 </p>
 
 ---
@@ -101,13 +101,13 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 <div align="center">
 
 <a href="https://leetcode.com/u/shobhamahato/">
-<img src="https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/shobhamahato/LeetCodeDailyQuestions">
-<img src="https://img.shields.io/badge/Explore_My_LeetCode_Repository-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_My_LeetCode_Repository-6A5ACD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -122,7 +122,7 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shobhamahato&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=shobhamahato&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -132,7 +132,7 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhamahato&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhamahato&theme=github_dark" width="100%" />
 
 </div>
 
@@ -143,15 +143,15 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 <div align="center">
 
 <a href="https://leetcode.com/u/shobhamahato/">
-<img src="https://img.shields.io/badge/LeetCode-Practice_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Practice_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://hackerrank.com/shobhamahato9955">
-<img src="https://img.shields.io/badge/HackerRank-Coding_Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Coding_Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <a href="https://github.com/shobhamahato">
-<img src="https://img.shields.io/badge/GitHub-My_Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-My_Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </div>
@@ -165,17 +165,17 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 I'm always interested in learning, collaborating, and connecting with fellow developers.
 
 <a href="https://linkedin.com/in/shobha-mahato-85595530b">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/shobhamahato">
-<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### ✨ "Code. Learn. Build. Repeat."
+### ✨ Code. Learn. Build. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:191970,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:191970,100:000000&height=120&section=footer" width="100%" />
 
 </div>
