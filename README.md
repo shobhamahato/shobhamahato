@@ -98,6 +98,9 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 ---
 
+
+---
+
 ## 🧠 LeetCode Journey
 
 <div align="center">
@@ -108,16 +111,15 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 <br/><br/>
 
-<a href="https://github.com/shobhamahato/LeetCode-Daily-Questions">
+<a href="https://github.com/shobhamahato/LeetCodeDailyQuestions">
 <img src="https://img.shields.io/badge/Explore_My_LeetCode_Repository-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Practising Java | Data Structures | Algorithms**
+**Java | Data Structures | Algorithms | Problem Solving**
 
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
