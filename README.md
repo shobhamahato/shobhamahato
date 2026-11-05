@@ -90,14 +90,9 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 **Focus:** Data Structures, Algorithms, and problem-solving.
 
-<a href="https://github.com/shobhamahato/LeetCode-Daily-Questions">🔗 View Repository</a>
+<a href="https://github.com/shobhamahato/LeetCodeDailyQuestions">🔗 View Repository</a>
 
 </details>
-
----
-
----
-
 
 ---
 
@@ -120,6 +115,7 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 **Java | Data Structures | Algorithms | Problem Solving**
 
 </div>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -132,8 +128,6 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 ---
 
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -141,6 +135,7 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhamahato&theme=github_dark" width="100%"/>
 
 </div>
+
 ---
 
 ## 🏆 My Coding Profiles
