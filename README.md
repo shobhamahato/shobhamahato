@@ -124,14 +124,15 @@ A collection of my daily LeetCode problem solutions implemented in Java.
 
 ---
 
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhamahato&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhamahato&theme=github_dark" width="100%"/>
 
 </div>
-
 ---
 
 ## 🏆 My Coding Profiles
